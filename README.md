@@ -25,7 +25,7 @@ You can change the displayed stats easy. Take a look at (http://your-pihole-ip/a
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via mail: vamonos@posteo.me or Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
